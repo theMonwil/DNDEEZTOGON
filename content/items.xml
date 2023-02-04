@@ -1,0 +1,5 @@
+<items gfxroot="gfx/items/" version="1" deathanm2="gfx/death_icon.anm2">
+    <active id="0" name="Infuse" description="Breathe life" gfx="ability_infuse.png" chargetype="timed" maxcharges="30"/>
+    <active id="1" name="Summon" description="Return to your master" gfx="ability_summon.png" chargetype="timed" maxcharges="300"/>
+    <passive id="2" name="Burger:" description="Kills you imstantly" gfx="borgir.png" quality="4"/>
+</items>

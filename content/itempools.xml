@@ -1,0 +1,8 @@
+<ItemPools>
+	<Pool Name="devil">
+		<Item Name="Burger:"/>
+	</Pool>
+	<Pool Name="curse">
+		<Item Name="Burger:"/>
+	</Pool>
+</ItemPools>

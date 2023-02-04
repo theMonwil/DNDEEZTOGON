@@ -1,0 +1,10 @@
+<players root="gfx/characters/costumes/"
+    portraitroot="gfx/ui/boss/" 
+    nameimageroot="gfx/ui/boss/">
+
+    <player name="Rava" skin="Character_001_Isaac.png" hp="6" items="271, 198"
+        nameimage="PlayerName_01_Isaac.png" 
+        portrait="PlayerPortrait_01_Isaac.png" 
+        skinColor="-1"
+		birthright="Extended Lifetime" />
+</players>
